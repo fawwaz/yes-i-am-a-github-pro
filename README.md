@@ -10,7 +10,8 @@ It would be nice if you star this repo. :star:
 
 # How to
 
-> User guide :  
+**User guide :**
+
 > Suitable for ordinary people.
 
 1. open extension page in chrome (you can type `chrome://extensions` on your browser)
@@ -20,7 +21,8 @@ It would be nice if you star this repo. :star:
 4. Drag and drop the plugin to the extension page
 5. Click 'ok' to install the plugin
 
-> Developer guide :  
+**Developer guide:**
+
 > Suitable for those who suspect me injecting malicious code in the plugin
 
 1. Clone this repo
@@ -28,7 +30,8 @@ It would be nice if you star this repo. :star:
 3. If you can't spot it, open extension page (`chrome://extensions`)
 4. Click load unpacked extension  
    ![unpacked extension](docs/image2.png)
-5. Click ok to continue to install the plugin
+5. Choose the root folder of this repo
+6. Click ok to continue to install the plugin
 
 # Result
 
@@ -44,7 +47,7 @@ A: Dude, Don't you remember that I can't afford subscription fee for github pro 
 Q: Will I get exclusive github pro features ?  
 A: Despite it put badge on your github profile, it doesn't mean that you will receive the benefit of Github pro. It only does as it says, put pro badge on your github profile
 
-Q: If I install this plugin, will I get 'pro' label in [@sonnylazuardi](https://github.com/sonnylazuardi) "github pro checker" ?  
+Q: If I install this plugin, will I get 'pro' label in [@sonnylazuardi](https://github.com/sonnylazuardi) "[github pro checker](https://github.com/sonnylazuardi/are-you-github-pro)" ?  
 A: No, Absolutely no. Please work harder, ask your lead to promote you so you get more money and able to subscribe to github pro membership.
 
 ### Disclaimer
