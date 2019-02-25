@@ -1,26 +1,44 @@
-# Chrome Extension Boilerplate for Simple Content Scripts
-[Developer Documentation for Content Scripts](https://developer.chrome.com/extensions/content_scripts)
+# Background
 
-## Instructions
-  - Download this repo into a folder.
-  - Launch the Chrome browser.
-  - Navigate to [chrome://extensions/](chrome://extensions/).
-  - Click the "Load unpacked extension..." button on the top left of the screen.
-  - Choose the folder you just created and click OK.
-  - Whenever you make a change to the extension, go back to this page and click the "reload" button on this extension.
-  - (optionally) You can add [Extensions Reloader](https://chrome.google.com/webstore/detail/extensions-reloader/fimgfedafeadlieiabdeeaodndnlbhid?hl=en) to make development faster
+Are you envy with pro badge on your friend's github profile ?  
+Bullied because you don't have pro badge ?  
+Now everyone can have that ! :money:
 
-## Important Files
-### manifest.json
-The manifest.json file describes all the specifics of your chrome extension.
+# How to
 
-### code/js.js
-The javascript injected into the page.
+User guide : Suitable for common people
 
-### code/css.css
-The css injected into the page.
+1. open extension page in chrome (you can type `chrome://extensions` on your browser)
+2. Make sure you tick the developer mode  
+   ![developer mode ticked](docs/image1.png)
+3. Download the plugin [here](github-pro.crx)
+4. Drag and drop the plugin to the extension page
+5. Click 'ok' to install the plugin
 
-### resources/jquery.min.js
-Allows you to use the simple jQuery library we all know and love.
+Developer guide : Suitable for those who suspect me injecting malicious code in the plugin
 
-built by [@iamnickvolpe](http://twitter.com/iamnickvolpe)
+1. Clone this repo
+2. Read every file, find malicious code
+3. If you can't spot it, open extension page (`chrome://extensions`)
+4. Click load unpacked extension  
+   ![unpacked extension](docs/image2.png)
+5. Click ok to continue to install the plugin
+
+# FAQ
+
+Q: Why this plugin is not published in chrome store ? It may change the world !
+A: Dude, Don't you remember that I don't have money to subscribe for github pro membership ? Why do I have to invest my money and time for chrome developer account and maintaining this shit plugins.
+
+Q: Will I get exclusive github pro features ?  
+A: Despite it put badge on your github profile, it doesn't mean that you will receive the benefit of Github pro. It only does as it says, put pro badge on your github profile
+
+Q: If I install this plugin, will I get 'pro' label in @sonnylazuardi's "github pro checker" ?
+A: No, Absolutely no. Please work harder, ask your lead to promote you so you get more money and able to subscribe to github pro membership.
+
+### Disclaimer
+
+This chrome plugin is only built for educational purpose.
+
+### License
+
+MIT
