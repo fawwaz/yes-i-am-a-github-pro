@@ -36,13 +36,13 @@ It would be nice if you star this repo. :star:
 
 # FAQ
 
-Q: Why this plugin is not published in chrome store ? It may change the world !
+Q: Why this plugin is not published in chrome store ? It may change the world !  
 A: Dude, Don't you remember that I can't afford subscription fee for github pro plan ? Why do I have to invest my money and time for chrome developer account and maintaining this shit plugins.
 
 Q: Will I get exclusive github pro features ?  
 A: Despite it put badge on your github profile, it doesn't mean that you will receive the benefit of Github pro. It only does as it says, put pro badge on your github profile
 
-Q: If I install this plugin, will I get 'pro' label in @sonnylazuardi's "github pro checker" ?
+Q: If I install this plugin, will I get 'pro' label in @sonnylazuardi "github pro checker" ?  
 A: No, Absolutely no. Please work harder, ask your lead to promote you so you get more money and able to subscribe to github pro membership.
 
 ### Disclaimer
