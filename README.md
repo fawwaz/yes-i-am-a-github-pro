@@ -42,7 +42,7 @@ A: Dude, Don't you remember that I can't afford subscription fee for github pro 
 Q: Will I get exclusive github pro features ?  
 A: Despite it put badge on your github profile, it doesn't mean that you will receive the benefit of Github pro. It only does as it says, put pro badge on your github profile
 
-Q: If I install this plugin, will I get 'pro' label in @sonnylazuardi "github pro checker" ?  
+Q: If I install this plugin, will I get 'pro' label in [@sonnylazuardi](https://github.com/sonnylazuardi) "github pro checker" ?  
 A: No, Absolutely no. Please work harder, ask your lead to promote you so you get more money and able to subscribe to github pro membership.
 
 ### Disclaimer
