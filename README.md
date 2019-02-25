@@ -4,6 +4,8 @@ Are you envy with pro badge on your friend's github profile ?
 Bullied because you don't have pro badge ?  
 Now everyone can have that **FOR FREE** !!! YEAAH ! :moneybag:
 
+It would be nice if you star this repo.
+
 # How to
 
 > User guide :  
