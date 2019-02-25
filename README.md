@@ -24,6 +24,12 @@ Developer guide : Suitable for those who suspect me injecting malicious code in 
    ![unpacked extension](docs/image2.png)
 5. Click ok to continue to install the plugin
 
+# Result
+
+| Before                     | After                     |
+| -------------------------- | ------------------------- |
+| ![before](docs/image3.png) | ![after](docs/image4.png) |
+
 # FAQ
 
 Q: Why this plugin is not published in chrome store ? It may change the world !
