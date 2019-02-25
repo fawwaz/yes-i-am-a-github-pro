@@ -2,7 +2,7 @@
 
 Are you envy with pro badge on your friend's github profile ?  
 Bullied because you don't have pro badge ?  
-Now everyone can have that ! :money:
+Now everyone can have that FOR FREE !!! YEAAH ! :moneybag:
 
 # How to
 
@@ -33,7 +33,7 @@ Developer guide : Suitable for those who suspect me injecting malicious code in 
 # FAQ
 
 Q: Why this plugin is not published in chrome store ? It may change the world !
-A: Dude, Don't you remember that I don't have money to subscribe for github pro membership ? Why do I have to invest my money and time for chrome developer account and maintaining this shit plugins.
+A: Dude, Don't you remember that I can't afford subscription fee for github pro plan ? Why do I have to invest my money and time for chrome developer account and maintaining this shit plugins.
 
 Q: Will I get exclusive github pro features ?  
 A: Despite it put badge on your github profile, it doesn't mean that you will receive the benefit of Github pro. It only does as it says, put pro badge on your github profile
