@@ -13,7 +13,7 @@
   "content_scripts": [
     {
       "matches": ["http://github.com/*", "https://github.com/*"],
-      "js": ["resources/jquery.min.js", "src/github-pro.js"]
+      "js": ["src/github-pro.js"]
     }
   ],
   "web_accessible_resources": ["resources/*"]
