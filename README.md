@@ -2,11 +2,12 @@
 
 Are you envy with pro badge on your friend's github profile ?  
 Bullied because you don't have pro badge ?  
-Now everyone can have that FOR FREE !!! YEAAH ! :moneybag:
+Now everyone can have that **FOR FREE** !!! YEAAH ! :moneybag:
 
 # How to
 
-User guide : Suitable for common people
+> User guide :  
+> Suitable for ordinary people.
 
 1. open extension page in chrome (you can type `chrome://extensions` on your browser)
 2. Make sure you tick the developer mode  
@@ -15,7 +16,8 @@ User guide : Suitable for common people
 4. Drag and drop the plugin to the extension page
 5. Click 'ok' to install the plugin
 
-Developer guide : Suitable for those who suspect me injecting malicious code in the plugin
+> Developer guide :  
+> Suitable for those who suspect me injecting malicious code in the plugin
 
 1. Clone this repo
 2. Read every file, find malicious code
